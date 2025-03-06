@@ -1,0 +1,121 @@
+*{
+  color: #000;
+}
+body{
+  background: #fff;
+  font-family: "Inter", sans-serif;
+}
+.color{
+  color: #0f6938;
+  color: #b3a032;
+  color: #050708;
+}
+a{
+  text-decoration: none;
+  color: #65AEF2;
+}
+.fs-12{ font-size: 12px; }
+.fs-24{ font-size: 24px; }
+.fs-32{ font-size: 32px; }
+.fs-64{ font-size: 64px; }
+.text-one{ color: #65AEF2; }
+.text-two{ color: #FF7E1D; }
+
+.carousel-item img{
+
+}
+.carousel-caption h5{
+  font-size: 64px;
+  text-align: start;
+  text-shadow: 0px 0px 10px black;
+}
+.footer-logo{
+  width: 150px;
+  height: auto;
+}
+.myNav{
+  border-radius: 1rem;
+  background: #fff;
+}
+.nav-link{
+  font-size: 24px;
+}
+.nav-link img{
+  width: 99px;
+  height: auto;
+}
+.nav-item{
+  padding: 0px 40px;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: #0f6938;
+}
+.nav-link:focus, .nav-link:hover {
+  color: #0f6938;
+}
+.bookCard{
+  background: #E9F3F6;
+  border-radius: 2.5rem;
+}
+.btnBook{
+  color: #fff;
+  background: #0f6938;
+  font-size: 24px;
+  padding: 10px 30px;
+  border-radius: 1rem;
+  border: none;
+  font-weight: 700;
+}
+.btnBook:hover{
+  background: #b3a032;
+}
+#Gallery{
+  background: #F3F3F3;
+}
+
+.roomCard{
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.15);
+  border-radius: 2rem;
+}
+
+.contactCard{
+  background: #F3F3F3;
+  border-radius: 1rem;
+}
+.form-control, .form-select{
+  border: none;
+  border-radius: 0px;
+  padding: 15px;
+}
+.form-control:focus, .form-select:focus{
+  color: var(--bs-body-color);
+  background-color: var(--bs-body-bg);
+  border-color: #86b7fe;
+  outline: 0;
+  box-shadow: none;
+}
+.contactBtn{
+  font-weight: 500;
+  color: #fff;
+  background: #0f6938;
+  padding: 12px 24px;
+  border: none;
+}
+.contactBtn:hover{
+  background: #b3a032;
+}
+footer{
+  background: #1E1E1E;
+}
+.SubscribeInput{
+  border-radius: 10px 0px 0px 10px;
+}
+.input-group-text{
+  background: #0f6938;
+  color: white;
+  padding: 10px 40px;
+  cursor: pointer;
+}
+.input-group-text:hover{
+  background: #b3a032;
+}
